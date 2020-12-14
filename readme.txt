@@ -1,5 +1,8 @@
-                          STEPS TO PREPARE HTML FILE
-                          __________________________
+                         
+                         
+                         
+                           STEPS TO PREPARE HTML FILE
+                           __________________________
 
 1. 3 HTML webpages are created in visual studio code and linked them using hyperlinks
 2. After creating structure,It is styled using CSS
